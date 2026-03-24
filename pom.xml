@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.86.32.238:8081/repository/warfiles/</url>
+		    <url>http://32.192.85.143:8081/repository/artifactstore/</url>
 		</repository>
   	</distributionManagement>
 	
