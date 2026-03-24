@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.219.89.233:8081/repository/Nexus/</url>
+		    <url>http://3.86.32.238:8081/repository/warfiles/</url>
 		</repository>
   	</distributionManagement>
 	
