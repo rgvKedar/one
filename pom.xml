@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://100.24.6.104:8081/repository/Artifactuploader/</url>
+		    <url>http://18.234.240.96:8081/repository/MerchApp/</url>
 		</repository>
   	</distributionManagement>
 	
