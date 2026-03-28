@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.202.142.115:8081/repository/MerchandiseStore/</url>
+		    <url>http://13.218.64.54:8081/repository/Merchstore/</url>
 		</repository>
   	</distributionManagement>
 	
