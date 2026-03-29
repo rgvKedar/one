@@ -944,7 +944,7 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Backpack" class="product-img">
                 <div class="product-info">
-                    <h3>Travel Backpack</h3>
+                    <h3>Cloth Racks</h3>
                     <div class="price">$79 <span class="old-price">$99</span></div>
                     <div class="rating">★★★★☆ <span>(67)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -953,7 +953,7 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Headphones" class="product-img">
                 <div class="product-info">
-                    <h3>Sony WH-1000XM5</h3>
+                    <h3>Nike Shoes</h3>
                     <div class="price">$399</div>
                     <div class="rating">★★★★★ <span>(156)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
